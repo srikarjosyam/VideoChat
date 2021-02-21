@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "98880096290",
+    "project_id": "videocallingapp-7aedb",
+    "storage_bucket": "videocallingapp-7aedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98880096290:android:eb07c21fdcd200b769e27b",
+        "android_client_info": {
+          "package_name": "com.connect.video_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98880096290-1orhdhgjh7apvamqvu09j34t913p6ith.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBbuK8Kg0zpw7AUtsQqVUj2OXolyqTeR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98880096290-1orhdhgjh7apvamqvu09j34t913p6ith.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98880096290-lhogh1prd7d94k6np4ltfoc2ibj8csv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.connect.videochatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
